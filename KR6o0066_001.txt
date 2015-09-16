@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:27.520451
+#+DATE: 2015-08-30 21:00:28.752306
 #+TITLE: 菩提心離相論
 #+PROPERTY: CBETA_ID T32n1661
 #+PROPERTY: ID KR6o0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1661
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0066_T_000-0541b>¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0066_T_001-0541b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1661¶
-
- 菩提心離相論¶
+No. 1661¶
+菩提心離相論¶
 ¶
 龍樹菩薩造¶
 西天譯經三藏朝奉大夫試光祿卿¶
