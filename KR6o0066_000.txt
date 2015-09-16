@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩提心離相論
+#+DATE: 2015-08-30 21:00:27.734015
+#+PROPERTY: JUAN 0
