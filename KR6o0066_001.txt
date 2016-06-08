@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:27.976784
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:55
 #+TITLE: 菩提心離相論
 #+PROPERTY: CBETA_ID T32n1661
 #+PROPERTY: ID KR6o0066
@@ -239,7 +239,7 @@ No. 1661¶
 　我以此福施眾生
 　普願速超三有海¶
 　如理如實所稱揚
-　智者應當如是學
+　智者應當如是學」
 #+END_VERSE
-」¶
+¶
 菩提心離相論
